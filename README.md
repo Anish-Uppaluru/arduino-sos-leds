@@ -3,7 +3,7 @@ My first Arduino project: 4 LEDs displaying the SOS pattern using for loops, dig
 
 An SOS in morse code:
 S- three short flashes, each ON for 250 ms and OFF for 250 ms. process happens 3 times 
-O- three short flashes, each ON for 250 ms and OFF for 750 ms.process happens 3 times
+O- three short flashes, each ON for 750 ms and OFF for 250 ms.process happens 3 times
 S-finally the same pattern for S as mentioned above light glows for 250ms goes dark for 250ms for 3 times 
 
 the circuit components-
